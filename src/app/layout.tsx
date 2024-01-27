@@ -1,12 +1,11 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { ebGaramond } from "@/app/ui/fonts";
 import "./globals.css";
-
-const inter = Inter({ subsets: ["latin"] });
+import Navbar from "@/components/Navbar";
 
 export const metadata: Metadata = {
-  title: "Hagel Studio",
-  description: "Henrik Johansson",
+  title: "Betty Norling",
+  description: "Portfolio of Betty Norling",
 };
 
 export default function RootLayout({
@@ -16,7 +15,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={ebGaramond.className}> 
+        <Navbar />
+        <main>{children}</main>
+        </body>
     </html>
   );
 }

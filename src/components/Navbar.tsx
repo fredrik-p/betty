@@ -1,5 +1,6 @@
 "use client";
 import React, { useState } from 'react';
+import Link  from 'next/link';
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -7,7 +8,9 @@ export default function Navbar() {
   return (
     <nav className="flex items-center justify-between flex-wrap bg-white p-6">
       <div className="flex items-center flex-shrink-0 mr-6">
-        <span className="font-thin text-xl tracking-tight">Betty Norling</span>
+        <Link href="/">
+          <span className="text-xl">Betty Norling</span>
+        </Link>
       </div>
       <div className="block lg:hidden">
         <button onClick={() => setIsOpen(!isOpen)} className="flex items-center px-3 py-2 hover:text-stone-600 hover:border-white">
@@ -16,14 +19,14 @@ export default function Navbar() {
       </div>
       <div className={`${isOpen ? 'block' : 'hidden'} w-full lg:flex lg:items-center lg:w-auto`}>
         <div className="text-sm lg:flex-grow">
-          <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 hover:text-stone-600 mr-4">
-            Projects
-          </a>
+          <Link href="/work" className="block mt-4 lg:inline-block lg:mt-0 hover:text-stone-300 text-md mr-4">
+            Work
+          </Link>
         </div>
         <div className="text-sm lg:ml-auto">
-            <a href="#" className="block mt-4 lg:inline-block lg:mt-0 hover:text-stone-600 mr-4">
+            <Link href="/contact" className="block mt-4 text-md lg:inline-block lg:mt-0 hover:text-stone-300 mr-4">
                 Contact
-            </a>
+            </Link>
         </div>
       </div>
     </nav>
