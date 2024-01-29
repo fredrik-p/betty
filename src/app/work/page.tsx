@@ -1,8 +1,13 @@
+import Navbar from "../../components/Navbar";
+
 const Work = () => {
     return (
-        <div className="flex justify-center items-center h-[80vh]">
+        <>
+        <Navbar />
+        <main className="flex justify-center items-center h-[80vh]">
             <h1 className="text-2xl">Coming soon.</h1>
-        </div>
+        </main>
+        </>
     );
 };
 
