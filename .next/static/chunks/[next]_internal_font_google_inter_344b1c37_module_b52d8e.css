@@ -29,7 +29,7 @@
   font-weight: 100 900;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7W0Q5n-wU.woff2) format('woff2');
-  unicode-range: u+0370-03FF;
+  unicode-range: u+0370-0377, u+037A-037F, u+0384-038A, u+038C, u+038E-03A1, u+03A3-03FF;
 }
 @font-face{
   font-family: '__Inter_344b1c';
@@ -45,7 +45,7 @@
   font-weight: 100 900;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7W0Q5n-wU.woff2) format('woff2');
-  unicode-range: u+0100-02AF, u+0304, u+0308, u+0329, u+1E00-1E9F, u+1EF2-1EFF, u+2020, u+20A0-20AB, u+20AD-20CF, u+2113, u+2C60-2C7F, u+A720-A7FF;
+  unicode-range: u+0100-02AF, u+0304, u+0308, u+0329, u+1E00-1E9F, u+1EF2-1EFF, u+2020, u+20A0-20AB, u+20AD-20C0, u+2113, u+2C60-2C7F, u+A720-A7FF;
 }
 @font-face{
   font-family: '__Inter_344b1c';

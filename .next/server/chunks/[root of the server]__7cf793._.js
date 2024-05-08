@@ -186,7 +186,7 @@ const Contact = ()=>{
                         }, void 0, false, {
                             fileName: "<[project]/src/app/contact/page.tsx>",
                             lineNumber: 9,
-                            columnNumber: 13
+                            columnNumber: 11
                         }, this),
                         /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"]("a", {
                             href: "tel:+46738499578",
@@ -195,7 +195,7 @@ const Contact = ()=>{
                         }, void 0, false, {
                             fileName: "<[project]/src/app/contact/page.tsx>",
                             lineNumber: 10,
-                            columnNumber: 13
+                            columnNumber: 11
                         }, this),
                         /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"]("a", {
                             href: "mailto:bettynorling@gmail.com",
@@ -203,8 +203,8 @@ const Contact = ()=>{
                             children: "bettynorling@gmail.com"
                         }, void 0, false, {
                             fileName: "<[project]/src/app/contact/page.tsx>",
-                            lineNumber: 11,
-                            columnNumber: 13
+                            lineNumber: 13,
+                            columnNumber: 11
                         }, this),
                         /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"]("a", {
                             href: "https://www.instagram.com/bettynorling/",
@@ -212,19 +212,19 @@ const Contact = ()=>{
                             children: "@bettynorling"
                         }, void 0, false, {
                             fileName: "<[project]/src/app/contact/page.tsx>",
-                            lineNumber: 12,
-                            columnNumber: 13
+                            lineNumber: 19,
+                            columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "<[project]/src/app/contact/page.tsx>",
                     lineNumber: 8,
-                    columnNumber: 11
+                    columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "<[project]/src/app/contact/page.tsx>",
                 lineNumber: 7,
-                columnNumber: 9
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true);

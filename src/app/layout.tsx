@@ -14,9 +14,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${ebGaramond.className} h-screen flex flex-col`}> 
-      {children}
-        </body>
+      <body className={`${ebGaramond.className} h-screen flex flex-col`}>
+        {children}
+      </body>
     </html>
   );
 }
