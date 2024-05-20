@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const CV = () => {
   return (
@@ -34,9 +34,7 @@ const CV = () => {
 
           <div className="mb-8">
             <ul className="list-none space-y-2 list-outside">
-              <li>
-                Lunds School of Art and Design (Art, Design, Architecture)
-              </li>
+              <li>Lunds School of Art and Design (Art, Design, Architecture)</li>
               <li>Nordic School of Design (Fashion)</li>
               <li>Modefabriken (Fashion)</li>
             </ul>
@@ -44,24 +42,36 @@ const CV = () => {
 
           <div className="mb-8">
             <h2 className="text-md font-bold mb-1">Exhibitions</h2>
-
-            <div className="mt-4 space-y-1">
-              <p>2023</p>
+            <div className="mt-4 space-y-2">
+              <p>2024</p>
+              <p>ArkDes, Stockholm, Sweden</p>
+              <p>Moderna Museet, residency and group exhibition, Malmö, Sweden</p>
+              <p>SSDD, Group exhibition, Malmö, Sweden</p>
+              <p>PRE-SSDD for Form Design Center, Group exhibition, Malmö, Sweden</p>
+              <p className="mt-2">2023</p>
               <p>Malmöväv, Group exhibition, Malmö, Sweden</p>
+        
               <p className="mt-2">2022</p>
+              <p>CPHFW, Group exhibition, Copenhagen, Denmark</p>
+              <p>SKT. Petri, Group exhibition, Copenhagen, Denmark</p>
+              <p>Moving gallery, Group exhibition, Copenhagen, Denmark</p>
+        
+              <p className="mt-2">2021</p>
+              <p>Royal Academy, Group exhibition, Copenhagen, Denmark</p>
+        
+              <p className="mt-2">2018</p>
               <p>CPHFW, Group exhibition, Copenhagen, Denmark</p>
               <p>SKT. Petri, Group exhibition, Copenhagen, Denmark</p>
             </div>
           </div>
         </div>
-
         <div className="md:w-1/2">
           <div className="mb-8">
-            <h2 className="text-md font-bold mb-2">Grants and nominations</h2>
+            <h2 className="text-md font-bold mb-2">Grants and Nominations</h2>
             <ul className="list-none space-y-2">
-              <li>Finalist "Real Leather," London, England, 2022</li>
+              <li>Finalist "Real Leather" London, England, 2022</li>
               <li>Svenskt Tenn, Estrid Ericsson, Stockholm, Sweden, 2022</li>
-              <li>Teko, textilhögsskolan i Borås, Sweden, 2022</li>
+              <li>Teko, Textilhögskolan i Borås, Sweden, 2022</li>
               <li>Royal Danish Academy, Copenhagen, Denmark, 2022</li>
               <li>Carl Eric Levin, 2022</li>
               <li>Elma Levi, 2022</li>
@@ -77,11 +87,10 @@ const CV = () => {
               <li>
                 2024
                 <br />
-                Malmöväv, Designer
+                MalmöVÄV, Designer
                 <br />
                 <span className="italic text-xs">
-                  Ongoing weave design project with Malmöväv on behalf of
-                  Arcdes, Malmö Stad and Layeredin.
+                  Ongoing weave design project on behalf of ArkDes, Malmö Stad (power of places) and Layered.
                 </span>
               </li>
               <li>
@@ -91,7 +100,7 @@ const CV = () => {
                 <br />
                 <span>Tres Bien, Menswear designer</span>
               </li>
-              <li>2021 Marimekko, Designer Collab with CD Rebekka Bay</li>
+              <li>2021<br /> Marimekko, Designer Collab with CD Rebekka Bay</li>
               <li>
                 2020
                 <br />

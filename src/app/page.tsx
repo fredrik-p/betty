@@ -1,6 +1,5 @@
 import { Video } from "@/app/ui/video";
 import Navbar from "../components/Navbar";
-import Image from "next/image";
 import ImageScroller from "@/components/ImageScroller";
 
 export default function Home() {
@@ -18,8 +17,6 @@ export default function Home() {
       <Navbar />
       <main className="flex flex-col items-center">
         <ImageScroller images={images}/>
-     
-  
       <div className="flex flex-col items-center justify-center h-[100vh]">
     <Video />
       </div>    
