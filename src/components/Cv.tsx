@@ -3,11 +3,13 @@ import React from 'react';
 const CV = () => {
   return (
     <div className="p-6">
-      <div className="max-w-7xl mx-auto md:flex">
-        <div className="md:w-1/2 mb-8 md:pr-4">
+      <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-8">
+        {/* Left column: Education and Work Experience */}
+        <div className="mb-8">
+          {/* Education Section */}
           <div className="mb-2">
-            <h2 className="text-md font-bold mb-2">Education</h2>
-            <ul className="list-none space-y-2">
+            <h2 className="text-xs font-bold mb-2">Education</h2>
+            <ul className="list-none space-y-2 text-xs">
               <li>
                 Master in Fashion and Textile
                 <br />
@@ -32,58 +34,19 @@ const CV = () => {
             </ul>
           </div>
 
+          {/* Additional Education Info */}
           <div className="mb-8">
-            <ul className="list-none space-y-2 list-outside">
+            <ul className="list-none space-y-2 text-xs">
               <li>Lunds School of Art and Design (Art, Design, Architecture)</li>
               <li>Nordic School of Design (Fashion)</li>
               <li>Modefabriken (Fashion)</li>
             </ul>
           </div>
 
+          {/* Work Experience Section */}
           <div className="mb-8">
-            <h2 className="text-md font-bold mb-1">Exhibitions</h2>
-            <div className="mt-4 space-y-2">
-              <p>2024</p>
-              <p>ArkDes, Stockholm, Sweden</p>
-              <p>Moderna Museet, residency and group exhibition, Malmö, Sweden</p>
-              <p>SSDD, Group exhibition, Malmö, Sweden</p>
-              <p>PRE-SSDD for Form Design Center, Group exhibition, Malmö, Sweden</p>
-              <p className="mt-2">2023</p>
-              <p>Malmöväv, Group exhibition, Malmö, Sweden</p>
-        
-              <p className="mt-2">2022</p>
-              <p>CPHFW, Group exhibition, Copenhagen, Denmark</p>
-              <p>SKT. Petri, Group exhibition, Copenhagen, Denmark</p>
-              <p>Moving gallery, Group exhibition, Copenhagen, Denmark</p>
-        
-              <p className="mt-2">2021</p>
-              <p>Royal Academy, Group exhibition, Copenhagen, Denmark</p>
-        
-              <p className="mt-2">2018</p>
-              <p>CPHFW, Group exhibition, Copenhagen, Denmark</p>
-              <p>SKT. Petri, Group exhibition, Copenhagen, Denmark</p>
-            </div>
-          </div>
-        </div>
-        <div className="md:w-1/2">
-          <div className="mb-8">
-            <h2 className="text-md font-bold mb-2">Grants and Nominations</h2>
-            <ul className="list-none space-y-2">
-              <li>Finalist "Real Leather" London, England, 2022</li>
-              <li>Svenskt Tenn, Estrid Ericsson, Stockholm, Sweden, 2022</li>
-              <li>Teko, Textilhögskolan i Borås, Sweden, 2022</li>
-              <li>Royal Danish Academy, Copenhagen, Denmark, 2022</li>
-              <li>Carl Eric Levin, 2022</li>
-              <li>Elma Levi, 2022</li>
-              <li>Royal Danish Academy, Copenhagen, Denmark, 2022</li>
-              <li>Petersenska Hemmet, 2022</li>
-              <li>Teko, Borås, Sweden, 2022</li>
-            </ul>
-          </div>
-
-          <div className="mb-8">
-            <h2 className="text-md font-bold mb-2">Work Experience</h2>
-            <ul className="list-none space-y-2">
+            <h2 className="text-xs font-bold mb-2">Work Experience</h2>
+            <ul className="list-none space-y-2 text-xs">
               <li>
                 2024
                 <br />
@@ -116,6 +79,49 @@ const CV = () => {
                 <br />
                 Asger Juel Larsen, Design Intern
               </li>
+            </ul>
+          </div>
+        </div>
+
+        {/* Right column: Exhibitions and Grants */}
+        <div className="mb-8">
+          {/* Exhibitions Section */}
+          <h2 className="text-xs font-bold mb-1">Exhibitions</h2>
+          <div className="mt-4 space-y-2 text-xs">
+            <p>2024</p>
+            <p>ArkDes, Stockholm, Sweden</p>
+            <p>Moderna Museet, residency and group exhibition, Malmö, Sweden</p>
+            <p>SSDD, Group exhibition, Malmö, Sweden</p>
+            <p>PRE-SSDD for Form Design Center, Group exhibition, Malmö, Sweden</p>
+            <p className="mt-2">2023</p>
+            <p>Malmöväv, Group exhibition, Malmö, Sweden</p>
+
+            <p className="mt-2">2022</p>
+            <p>CPHFW, Group exhibition, Copenhagen, Denmark</p>
+            <p>SKT. Petri, Group exhibition, Copenhagen, Denmark</p>
+            <p>Moving gallery, Group exhibition, Copenhagen, Denmark</p>
+
+            <p className="mt-2">2021</p>
+            <p>Royal Academy, Group exhibition, Copenhagen, Denmark</p>
+
+            <p className="mt-2">2018</p>
+            <p>CPHFW, Group exhibition, Copenhagen, Denmark</p>
+            <p>SKT. Petri, Group exhibition, Copenhagen, Denmark</p>
+          </div>
+
+          {/* Grants and Nominations Section */}
+          <div className="mt-8">
+            <h2 className="text-xs font-bold mb-2">Grants and Nominations</h2>
+            <ul className="list-none space-y-2 text-xs">
+              <li>Finalist "Real Leather" London, England, 2022</li>
+              <li>Svenskt Tenn, Estrid Ericsson, Stockholm, Sweden, 2022</li>
+              <li>Teko, Textilhögskolan i Borås, Sweden, 2022</li>
+              <li>Royal Danish Academy, Copenhagen, Denmark, 2022</li>
+              <li>Carl Eric Levin, 2022</li>
+              <li>Elma Levi, 2022</li>
+              <li>Royal Danish Academy, Copenhagen, Denmark, 2022</li>
+              <li>Petersenska Hemmet, 2022</li>
+              <li>Teko, Borås, Sweden, 2022</li>
             </ul>
           </div>
         </div>

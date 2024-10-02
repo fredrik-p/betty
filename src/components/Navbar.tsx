@@ -33,7 +33,7 @@ export default function Navbar() {
         <div className="text-sm lg:flex-grow">
           <Link
             href="/cv"
-            className="block mt-4 lg:inline-block lg:mt-0 hover:text-stone-500 text-md mr-4"
+            className="block mt-4 lg:inline-block lg:mt-0 hover:text-stone-500  mr-4"
           >
             Curiculum
           </Link>
@@ -41,7 +41,7 @@ export default function Navbar() {
         <div className="text-sm lg:ml-auto">
           <Link
             href="/contact"
-            className="block mt-4 text-md lg:inline-block lg:mt-0 hover:text-stone-500 mr-4"
+            className="block mt-4 lg:inline-block lg:mt-0 hover:text-stone-500 mr-4"
           >
             Contact
           </Link>
