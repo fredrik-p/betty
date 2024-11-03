@@ -85,29 +85,65 @@ const CV = () => {
 
         {/* Right column: Exhibitions and Grants */}
         <div className="mb-8">
-          {/* Exhibitions Section */}
-          <h2 className="text-xs font-bold mb-1">Exhibitions</h2>
-          <div className="mt-4 space-y-2 text-xs">
-            <p>2024 ArkDes, Stockholm, Sweden</p>
-            <p>2024 Moderna Museet, residency and group exhibition, Malmö, Sweden</p>
-            <p>2024 SSDD, Group exhibition, Malmö, Sweden</p>
-            <p>2024 PRE-SSDD for Form Design Center, Group exhibition, Malmö, Sweden</p>
-          
-            <p className="mt-2">2023 Malmöväv, Group exhibition, Malmö, Sweden</p>
+  {/* Exhibitions Section */}
+  <h2 className="text-xs font-bold mb-1">Exhibitions</h2>
+  <div className="mt-4 space-y-2 text-xs">
+    {/* Exhibition entries */}
+    <div className="flex">
+      <div className="mr-8 font-bold">2024</div>
+      <p>ArkDes, Stockholm, Sweden</p>
+    </div>
+    
+    <div className="flex">
+      <div className="mr-8 font-bold">2024</div>
+      <p>Moderna Museet, residency and group exhibition, Malmö, Sweden</p>
+    </div>
+    
+    <div className="flex">
+      <div className="mr-8 font-bold">2024</div>
+      <p>SSDD, Group exhibition, Malmö, Sweden</p>
+    </div>
+    
+    <div className="flex">
+      <div className="mr-8 font-bold">2024</div>
+      <p>PRE-SSDD for Form Design Center, Group exhibition, Malmö, Sweden</p>
+    </div>
+    
+    <div className="flex mt-2">
+      <div className="mr-8 font-bold">2023</div>
+      <p>Malmöväv, Group exhibition, Malmö, Sweden</p>
+    </div>
 
-            <p className="mt-2">2022 CPHFW, Group exhibition, Copenhagen, Denmark</p>
-            <p className="mt-2">CPHFW, Group exhibition, Copenhagen, Denmark</p>
-            <p>SKT. Petri, Group exhibition, Copenhagen, Denmark</p>
-            <p>Moving gallery, Group exhibition, Copenhagen, Denmark</p>
+    <div className="flex mt-2">
+      <div className="mr-8 font-bold">2022</div>
+      <p>CPHFW, Group exhibition, Copenhagen, Denmark</p>
+    </div>
 
-            <p className="mt-2">2021</p>
-            <p className="mt-2">2021 Royal Academy, Group exhibition, Copenhagen, Denmark</p>
+    <div className="flex mt-2">
+      <div className="mr-8 font-bold">2022</div>
+      <p>SKT. Petri, Group exhibition, Copenhagen, Denmark</p>
+    </div>
 
-          
-            <p className="mt-2">2018 CPHFW, Group exhibition, Copenhagen, Denmark</p>
-            <p>2018 SKT. Petri, Group exhibition, Copenhagen, Denmark</p>
-          </div>
+    <div className="flex">
+      <div className="mr-8 font-bold">2022</div>
+      <p>Moving gallery, Group exhibition, Copenhagen, Denmark</p>
+    </div>
 
+    <div className="flex mt-2">
+      <div className="mr-8 font-bold">2021</div>
+      <p>Royal Academy, Group exhibition, Copenhagen, Denmark</p>
+    </div>
+
+    <div className="flex mt-2">
+      <div className="mr-8 font-bold">2018</div>
+      <p>CPHFW, Group exhibition, Copenhagen, Denmark</p>
+    </div>
+
+    <div className="flex">
+      <div className="mr-8 font-bold">2018</div>
+      <p>SKT. Petri, Group exhibition, Copenhagen, Denmark</p>
+    </div>
+  </div>
           {/* Grants and Nominations Section */}
           <div className="mt-8">
             <h2 className="text-xs font-bold mb-2">Grants and Nominations</h2>
