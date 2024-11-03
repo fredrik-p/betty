@@ -88,33 +88,33 @@ const CV = () => {
           {/* Exhibitions Section */}
           <h2 className="text-xs font-bold mb-1">Exhibitions</h2>
           <div className="mt-4 space-y-2 text-xs">
-            <p>2024</p>
-            <p>ArkDes, Stockholm, Sweden</p>
-            <p>Moderna Museet, residency and group exhibition, Malmö, Sweden</p>
-            <p>SSDD, Group exhibition, Malmö, Sweden</p>
-            <p>PRE-SSDD for Form Design Center, Group exhibition, Malmö, Sweden</p>
-            <p className="mt-2">2023</p>
-            <p>Malmöväv, Group exhibition, Malmö, Sweden</p>
+            <p>2024 ArkDes, Stockholm, Sweden</p>
+            <p>2024 Moderna Museet, residency and group exhibition, Malmö, Sweden</p>
+            <p>2024 SSDD, Group exhibition, Malmö, Sweden</p>
+            <p>2024 PRE-SSDD for Form Design Center, Group exhibition, Malmö, Sweden</p>
+          
+            <p className="mt-2">2023 Malmöväv, Group exhibition, Malmö, Sweden</p>
 
-            <p className="mt-2">2022</p>
-            <p>CPHFW, Group exhibition, Copenhagen, Denmark</p>
+            <p className="mt-2">2022 CPHFW, Group exhibition, Copenhagen, Denmark</p>
+            <p className="mt-2">CPHFW, Group exhibition, Copenhagen, Denmark</p>
             <p>SKT. Petri, Group exhibition, Copenhagen, Denmark</p>
             <p>Moving gallery, Group exhibition, Copenhagen, Denmark</p>
 
             <p className="mt-2">2021</p>
-            <p>Royal Academy, Group exhibition, Copenhagen, Denmark</p>
+            <p className="mt-2">2021 Royal Academy, Group exhibition, Copenhagen, Denmark</p>
 
-            <p className="mt-2">2018</p>
-            <p>CPHFW, Group exhibition, Copenhagen, Denmark</p>
-            <p>SKT. Petri, Group exhibition, Copenhagen, Denmark</p>
+          
+            <p className="mt-2">2018 CPHFW, Group exhibition, Copenhagen, Denmark</p>
+            <p>2018 SKT. Petri, Group exhibition, Copenhagen, Denmark</p>
           </div>
 
           {/* Grants and Nominations Section */}
           <div className="mt-8">
             <h2 className="text-xs font-bold mb-2">Grants and Nominations</h2>
             <ul className="list-none space-y-2 text-xs">
+              <li>Malmö stad, 2023 -2024</li>
               <li>Finalist "Real Leather" London, England, 2022</li>
-              <li>Svenskt Tenn, Estrid Ericsson, Stockholm, Sweden, 2022</li>
+              <li>Svenskt Tenn, Estrid Ericsson, 2022</li>
               <li>Teko, Textilhögskolan i Borås, Sweden, 2022</li>
               <li>Royal Danish Academy, Copenhagen, Denmark, 2022</li>
               <li>Carl Eric Levin, 2022</li>
