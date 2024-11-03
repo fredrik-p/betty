@@ -329,6 +329,9 @@ video {
 .mr-6 {
   margin-right: 1.5rem;
 }
+.mr-8 {
+  margin-right: 2rem;
+}
 .mt-2 {
   margin-top: 0.5rem;
 }
@@ -379,9 +382,6 @@ video {
 }
 .flex-shrink-0 {
   flex-shrink: 0;
-}
-.list-outside {
-  list-style-position: outside;
 }
 .list-none {
   list-style-type: none;
@@ -477,20 +477,11 @@ body {
   color: rgb(87 83 78/ var(--tw-text-opacity));
 }
 @media (min-width: 768px) {
-  .md\:flex {
-    display: flex;
-  }
-  .md\:w-1\/2 {
-    width: 50%;
-  }
   .md\:w-\[400px\] {
     width: 400px;
   }
   .md\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-  .md\:pr-4 {
-    padding-right: 1rem;
   }
 }
 @media (min-width: 1024px) {
