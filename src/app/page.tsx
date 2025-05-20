@@ -14,13 +14,13 @@ export default function Home() {
   ];
 
   const arkdesImages = [
-    { src: "/arkdes_1.jpeg", alt: "Arkdes 1" },
-    { src: "/arkdes_3.jpeg", alt: "Arkdes 3" }, 
-    { src: "/arkdes_2.jpeg", alt: "Arkdes 2" },
+    { src: "/arkdes_1.jpeg", alt: "Arkdes 1", type: "image" },
+    { src: "/arkdes_3.jpeg", alt: "Arkdes 3", type: "image" },
+    { src: "/arkdes_2.jpeg", alt: "Arkdes 2", type: "image" },    
   ];
 
   const aBodyImages = [
-    { src: "/abody_2.jpeg", alt: "A Body 2" },  
+    { src: "/abody_2.jpeg", alt: "A Body 2" },
     { src: "/abody_1.jpeg", alt: "A Body 1" },
   ];
 
@@ -28,12 +28,12 @@ export default function Home() {
     <>
       <Navbar />
       <main className="flex flex-col items-center">
-        <ImageScroller height={1000} width={800} images={aBodyImages}/>
+        <ImageScroller height={1000} width={800} images={aBodyImages} />
         <ImageScroller width={980} height={554} images={arkdesImages} />
-        <ImageScroller height={600} width={400} images={images}/> 
-      <div className="flex flex-col items-center justify-center h-[100vh]">
-    <Video />
-      </div>    
+        <ImageScroller height={600} width={400} images={images} />
+        <div className="flex flex-col items-center justify-center h-[100vh]">
+          <Video />
+        </div>
       </main>
     </>
   );

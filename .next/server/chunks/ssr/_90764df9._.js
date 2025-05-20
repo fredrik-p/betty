@@ -198,15 +198,18 @@ function Home() {
     const arkdesImages = [
         {
             src: "/arkdes_1.jpeg",
-            alt: "Arkdes 1"
+            alt: "Arkdes 1",
+            type: "image"
         },
         {
             src: "/arkdes_3.jpeg",
-            alt: "Arkdes 3"
+            alt: "Arkdes 3",
+            type: "image"
         },
         {
             src: "/arkdes_2.jpeg",
-            alt: "Arkdes 2"
+            alt: "Arkdes 2",
+            type: "image"
         }
     ];
     const aBodyImages = [
@@ -261,12 +264,12 @@ function Home() {
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$ui$2f$video$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Video"], {}, void 0, false, {
                             fileName: "[project]/src/app/page.tsx",
                             lineNumber: 35,
-                            columnNumber: 5
+                            columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/page.tsx",
                         lineNumber: 34,
-                        columnNumber: 7
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {

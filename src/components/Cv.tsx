@@ -11,74 +11,149 @@ const CV = () => {
       <div className="mb-10">
         <h2 className="font-semibold mb-4">Education</h2>
         <ul className="space-y-1">
-          <li>2020–2022  Masters in Arts, Fashion and Textile, The Royal Danish Academy</li>
-          <li>2015–2018  Bachelor in Arts, Fashion and Textile, The Royal Danish Academy of Fine Arts</li>
-          <li>2017–2018  Erasmus exchange, Textile and Fashion, Gerrit Rietveld Academie</li>
-          <li>2014–2015  Lund College of Art and Design</li>
-          <li>2013–2014  Nordic School of Design</li>
-          <li>2012–2013  Modefabriken</li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2020–2022</span>
+            <span>Masters in Arts, Fashion and Textile, The Royal Danish Academy</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2015–2018</span>
+            <span>Bachelor in Arts, Fashion and Textile, The Royal Danish Academy of Fine Arts</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2017–2018</span>
+            <span>Erasmus exchange, Textile and Fashion, Gerrit Rietveld Academie</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2014–2015</span>
+            <span>Lund College of Art and Design</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2013–2014</span>
+            <span>Nordic School of Design</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2012–2013</span>
+            <span>Modefabriken</span>
+          </li>
         </ul>
       </div>
 
       <div className="mb-10">
         <h2 className="font-semibold mb-4">Exhibitions</h2>
         <ul className="space-y-1">
-          <li>
-            2025 <span className="italic">Going pro</span>, Main location Lokstallarna, Malmö
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2025</span>
+            <span>
+              <span className="italic">Going pro</span>, Main location Lokstallarna, Malmö
+            </span>
           </li>
-          <li>
-            2025 <span className="italic">Weave</span>, Tanken, Malmö
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2025</span>
+            <span>
+              <span className="italic">Weave</span>, Tanken, Malmö
+            </span>
           </li>
-          <li>
-            2025 <span className="italic">PRE-SSDD</span>, Folkets Park, Malmö
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2025</span>
+            <span>
+              <span className="italic">PRE-SSDD</span>, Folkets Park, Malmö
+            </span>
           </li>
-          <li>
-            2025 <span className="italic">Provbiten</span>, MalmöVÄV, Malmö
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2025</span>
+            <span>
+              <span className="italic">Provbiten</span>, MalmöVÄV, Malmö
+            </span>
           </li>
-          <li>
-            2025 <span className="italic">Tense</span>, STPLN, Malmö
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2025</span>
+            <span>
+              <span className="italic">Tense</span>, STPLN, Malmö
+            </span>
           </li>
-          <li>
-            2024–2025 <span className="italic">Power of Places</span>, ArkDes, Stockholm
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2024–2025</span>
+            <span>
+              <span className="italic">Power of Places</span>, ArkDes, Stockholm
+            </span>
           </li>
-          <li>
-            2024 <span className="italic">Knäck</span>, STRECK, Malmö
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2024</span>
+            <span>
+              <span className="italic">Knäck</span>, STRECK, Malmö
+            </span>
           </li>
-          <li>
-            2024 <span className="italic">Care</span>, MalmöVÄV, Malmö
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2024</span>
+            <span>
+              <span className="italic">Care</span>, MalmöVÄV, Malmö
+            </span>
           </li>
-          <li>
-            2024 <span className="italic">PRE-SSDD</span>, Form/Design Center, Malmö
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2024</span>
+            <span>
+              <span className="italic">PRE-SSDD</span>, Form/Design Center, Malmö
+            </span>
           </li>
-          <li>
-            2023 <span className="italic">Dissonance</span>, MalmöVÄV, Malmö
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2023</span>
+            <span>
+              <span className="italic">Dissonance</span>, MalmöVÄV, Malmö
+            </span>
           </li>
-          <li>
-            2022 <span className="italic">Graduation show</span>, Copenhagen Fashion Week, Denmark
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2022</span>
+            <span>
+              <span className="italic">Graduation show</span>, Copenhagen Fashion Week, Denmark
+            </span>
           </li>
-          <li>
-            2022 <span className="italic">Graduation show</span>, The Royal Danish Academy, Copenhagen
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2022</span>
+            <span>
+              <span className="italic">Graduation show</span>, The Royal Danish Academy, Copenhagen
+            </span>
           </li>
-          <li>
-            2022 <span className="italic">Graduation show</span>, SKT. Petri, Copenhagen
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2022</span>
+            <span>
+              <span className="italic">Graduation show</span>, SKT. Petri, Copenhagen
+            </span>
           </li>
-          <li>
-            2022 <span className="italic">Fragments</span>, Moving Gallery, Copenhagen
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2022</span>
+            <span>
+              <span className="italic">Fragments</span>, Moving Gallery, Copenhagen
+            </span>
           </li>
-          <li>
-            2021–2022 <span className="italic">Manifesto</span>, The Royal Danish Academy, Copenhagen
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2021–2022</span>
+            <span>
+              <span className="italic">Manifesto</span>, The Royal Danish Academy, Copenhagen
+            </span>
           </li>
-          <li>
-            2018 <span className="italic">Graduation show</span>, Copenhagen Fashion Week, Denmark
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2018</span>
+            <span>
+              <span className="italic">Graduation show</span>, Copenhagen Fashion Week, Denmark
+            </span>
           </li>
-          <li>
-            2018 <span className="italic">Graduation show</span>, SKT. Petri, Copenhagen
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2018</span>
+            <span>
+              <span className="italic">Graduation show</span>, SKT. Petri, Copenhagen
+            </span>
           </li>
-          <li>
-            2016 <span className="italic">Textures</span>, The Royal Danish Academy, Copenhagen
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2016</span>
+            <span>
+              <span className="italic">Textures</span>, The Royal Danish Academy, Copenhagen
+            </span>
           </li>
-          <li>
-            2016 <span className="italic">Krop</span>, Hello Koral, Copenhagen
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2016</span>
+            <span>
+              <span className="italic">Krop</span>, Hello Koral, Copenhagen
+            </span>
           </li>
         </ul>
       </div>
@@ -86,37 +161,112 @@ const CV = () => {
       <div className="mb-10">
         <h2 className="font-semibold mb-4">Other (Selection)</h2>
         <ul className="space-y-1">
-          <li>2025  Workshop at ”Ungas konsthall”, Malmö Konsthall</li>
-          <li>2025  Artist and Designer, Form/Design Center, Freelance program</li>
-          <li>2025  Artist and Womenswear Designer, STPLN LAB, Freelance program</li>
-          <li>2024–ongoing  Board Member, MalmöVÄV</li>
-          <li>2024  Project leader/workshops “VÄV med MalmöVÄV” and exhibition building, ArkDes</li>
-          <li>2024  Panel Talk, ArkDes</li>
-          <li>2023–2024  Artist, Public commission: weaving, Nyhamnen (Malmö/ArkDes)</li>
-          <li>2023  Womenswear Designer, Tiger of Sweden</li>
-          <li>2023  Menswear Designer, Trés Bien</li>
-          <li>2023  Vogue Scandinavia / Vogue Runway</li>
-          <li>2021–2022  Womenswear Designer, Collaboration with Marimekko</li>
-          <li>2020  Womenswear Designer, Collaboration with Cristóbal Balenciaga</li>
-          <li>2014  Design Intern, Asger Juel Larsen</li>
-          <li>2013  Collaboration with Gina Tricot & Nelly.com</li>
-          <li>2012  Kindergarten Teacher, Klurifax Teaterhus</li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2025</span>
+            <span>Workshop at ”Ungas konsthall”, Malmö Konsthall</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2025</span>
+            <span>Artist and Designer, Form/Design Center, Freelance program</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2025</span>
+            <span>Artist and Womenswear Designer, STPLN LAB, Freelance program</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2024–ongoing</span>
+            <span>Board Member, MalmöVÄV</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2024</span>
+            <span>Project leader/workshops “VÄV med MalmöVÄV” and exhibition building, ArkDes</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2024</span>
+            <span>Panel Talk, ArkDes</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2023–2024</span>
+            <span>Public commission: weaving, Nyhamnen Malmö</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2023</span>
+            <span>Womenswear Designer, Tiger of Sweden</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2023</span>
+            <span>Menswear Designer, Trés Bien</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2023</span>
+            <span>Vogue Scandinavia / Vogue Runway</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2021–2022</span>
+            <span>Womenswear Designer, Collaboration with Marimekko</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2020</span>
+            <span>Womenswear Designer, Collaboration with Cristóbal Balenciaga</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2014</span>
+            <span>Design Intern, Asger Juel Larsen</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2013</span>
+            <span>Collaboration with Gina Tricot & Nelly.com</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2012</span>
+            <span>Kindergarden Teacher, Klurifax Teaterhus</span>
+          </li>
         </ul>
       </div>
 
       <div className="mb-10">
         <h2 className="font-semibold mb-4">Awards and Grants</h2>
         <ul className="space-y-1">
-          <li>2024–2025  Malmö stad studio grant</li>
-          <li>2022  Svenskt Tenn, Estrid Ericsson Grant</li>
-          <li>2022  "Real Leather" London Finalist</li>
-          <li>2022  TEKO Grant, University of Borås</li>
-          <li>2022  Royal Danish Academy Grant</li>
-          <li>2022  Carl Eric Levin Grant</li>
-          <li>2022  Elma Levin Grant</li>
-          <li>2022  Petersenska Hemmet Grant</li>
-          <li>2021  Teko Grant</li>
-          <li>2021  Royal Danish Academy Grant</li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2024–2025</span>
+            <span>Malmö stad studio grant</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2022</span>
+            <span>Svenskt Tenn, Estrid Ericsson Grant</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2022</span>
+            <span>"Real Leather" London Finalist</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2022</span>
+            <span>TEKO Grant, University of Borås</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2022</span>
+            <span>Royal Danish Academy Grant</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2022</span>
+            <span>Carl Eric Levin Grant</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2022</span>
+            <span>Elma Levin Grant</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2022</span>
+            <span>Petersenska Hemmet Grant</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2021</span>
+            <span>Teko Grant</span>
+          </li>
+          <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2021</span>
+            <span>Royal Danish Academy Grant</span>
+          </li>
         </ul>
       </div>
 
