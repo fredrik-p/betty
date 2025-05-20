@@ -17,7 +17,7 @@ const CV = () => {
           </li>
           <li className="grid grid-cols-[100px_1fr] gap-4">
             <span>2015–2018</span>
-            <span>Bachelor in Arts, Fashion and Textile, The Royal Danish Academy of Fine Arts</span>
+            <span>Bachelor in Arts, Fashion and Textile, The Royal Danish Academy</span>
           </li>
           <li className="grid grid-cols-[100px_1fr] gap-4">
             <span>2017–2018</span>
