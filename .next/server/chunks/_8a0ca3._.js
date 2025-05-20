@@ -7,7 +7,11 @@ __turbopack_esm__({
     "GET": ()=>GET,
     "dynamic": ()=>dynamic
 });
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$web$2f$exports$2f$next$2d$response$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/next/dist/server/web/exports/next-response.js [app-rsc] (ecmascript)");
+(()=>{
+    const e = new Error("Cannot find module 'next/dist/server/web/exports/next-response'");
+    e.code = 'MODULE_NOT_FOUND';
+    throw e;
+})();
 "__TURBOPACK__ecmascript__hoisting__location__";
 ;
 const contentType = "image/x-icon";
