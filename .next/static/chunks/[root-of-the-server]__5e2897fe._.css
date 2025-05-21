@@ -686,6 +686,10 @@ img, video {
   width: 50vw;
 }
 
+.w-\[100vw\] {
+  width: 100vw;
+}
+
 .max-w-7xl {
   max-width: 80rem;
 }
@@ -891,9 +895,19 @@ body {
   color: rgb(87 83 78 / var(--tw-text-opacity));
 }
 
+@media (width >= 640px) {
+  .sm\:w-auto {
+    width: auto;
+  }
+}
+
 @media (width >= 768px) {
   .md\:w-\[400px\] {
     width: 400px;
+  }
+
+  .md\:w-auto {
+    width: auto;
   }
 
   .md\:grid-cols-2 {
