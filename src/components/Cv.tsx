@@ -41,10 +41,16 @@ const CV = () => {
       <div className="mb-10">
         <h2 className="font-semibold mb-4">Exhibitions</h2>
         <ul className="space-y-1">
+                <li className="grid grid-cols-[100px_1fr] gap-4">
+            <span>2025</span>
+            <span>
+              <span className="italic">Casted Rooms</span>, Form/Design Center, Malmö
+            </span>
+          </li>
           <li className="grid grid-cols-[100px_1fr] gap-4">
             <span>2025</span>
             <span>
-              <span className="italic">Going pro</span>, Main location Lokstallarna, Malmö
+              <span className="italic">Casted Rooms</span>, Main location Lokstallarna, Malmö
             </span>
           </li>
           <li className="grid grid-cols-[100px_1fr] gap-4">
