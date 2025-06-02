@@ -284,13 +284,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "Going pro"
+                                                children: "Casted Rooms"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 47,
                                                 columnNumber: 15
                                             }, this),
-                                            ", Main location Lokstallarna, Malmö"
+                                            ", Form/Design Center, Malmö"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -301,7 +301,7 @@ const CV = ()=>{
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
                                 lineNumber: 44,
-                                columnNumber: 11
+                                columnNumber: 17
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 className: "grid grid-cols-[100px_1fr] gap-4",
@@ -317,13 +317,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "Weave"
+                                                children: "Casted Rooms"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 53,
                                                 columnNumber: 15
                                             }, this),
-                                            ", Tanken, Malmö"
+                                            ", Main location Lokstallarna, Malmö"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -350,13 +350,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "PRE-SSDD"
+                                                children: "Weave"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 59,
                                                 columnNumber: 15
                                             }, this),
-                                            ", Folkets Park, Malmö"
+                                            ", Tanken, Malmö"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -383,13 +383,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "Provbiten"
+                                                children: "PRE-SSDD"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 65,
                                                 columnNumber: 15
                                             }, this),
-                                            ", MalmöVÄV, Malmö"
+                                            ", Folkets Park, Malmö"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -416,13 +416,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "Tense"
+                                                children: "Provbiten"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 71,
                                                 columnNumber: 15
                                             }, this),
-                                            ", STPLN, Malmö"
+                                            ", MalmöVÄV, Malmö"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -439,7 +439,7 @@ const CV = ()=>{
                                 className: "grid grid-cols-[100px_1fr] gap-4",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        children: "2024–2025"
+                                        children: "2025"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
                                         lineNumber: 75,
@@ -449,13 +449,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "Power of Places"
+                                                children: "Tense"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 77,
                                                 columnNumber: 15
                                             }, this),
-                                            ", ArkDes, Stockholm"
+                                            ", STPLN, Malmö"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -472,7 +472,7 @@ const CV = ()=>{
                                 className: "grid grid-cols-[100px_1fr] gap-4",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        children: "2024"
+                                        children: "2024–2025"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
                                         lineNumber: 81,
@@ -482,13 +482,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "Knäck"
+                                                children: "Power of Places"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 83,
                                                 columnNumber: 15
                                             }, this),
-                                            ", STRECK, Malmö"
+                                            ", ArkDes, Stockholm"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -515,13 +515,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "Care"
+                                                children: "Knäck"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 89,
                                                 columnNumber: 15
                                             }, this),
-                                            ", MalmöVÄV, Malmö"
+                                            ", STRECK, Malmö"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -548,13 +548,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "PRE-SSDD"
+                                                children: "Care"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 95,
                                                 columnNumber: 15
                                             }, this),
-                                            ", Form/Design Center, Malmö"
+                                            ", MalmöVÄV, Malmö"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -571,7 +571,7 @@ const CV = ()=>{
                                 className: "grid grid-cols-[100px_1fr] gap-4",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        children: "2023"
+                                        children: "2024"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
                                         lineNumber: 99,
@@ -581,13 +581,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "Dissonance"
+                                                children: "PRE-SSDD"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 101,
                                                 columnNumber: 15
                                             }, this),
-                                            ", MalmöVÄV, Malmö"
+                                            ", Form/Design Center, Malmö"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -604,7 +604,7 @@ const CV = ()=>{
                                 className: "grid grid-cols-[100px_1fr] gap-4",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        children: "2022"
+                                        children: "2023"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
                                         lineNumber: 105,
@@ -614,13 +614,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "Graduation show"
+                                                children: "Dissonance"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 107,
                                                 columnNumber: 15
                                             }, this),
-                                            ", Copenhagen Fashion Week, Denmark"
+                                            ", MalmöVÄV, Malmö"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -653,7 +653,7 @@ const CV = ()=>{
                                                 lineNumber: 113,
                                                 columnNumber: 15
                                             }, this),
-                                            ", The Royal Danish Academy, Copenhagen"
+                                            ", Copenhagen Fashion Week, Denmark"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -686,7 +686,7 @@ const CV = ()=>{
                                                 lineNumber: 119,
                                                 columnNumber: 15
                                             }, this),
-                                            ", SKT. Petri, Copenhagen"
+                                            ", The Royal Danish Academy, Copenhagen"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -713,13 +713,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "Fragments"
+                                                children: "Graduation show"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 125,
                                                 columnNumber: 15
                                             }, this),
-                                            ", Moving Gallery, Copenhagen"
+                                            ", SKT. Petri, Copenhagen"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -736,7 +736,7 @@ const CV = ()=>{
                                 className: "grid grid-cols-[100px_1fr] gap-4",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        children: "2021–2022"
+                                        children: "2022"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
                                         lineNumber: 129,
@@ -746,13 +746,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "Manifesto"
+                                                children: "Fragments"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 131,
                                                 columnNumber: 15
                                             }, this),
-                                            ", The Royal Danish Academy, Copenhagen"
+                                            ", Moving Gallery, Copenhagen"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -769,7 +769,7 @@ const CV = ()=>{
                                 className: "grid grid-cols-[100px_1fr] gap-4",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        children: "2018"
+                                        children: "2021–2022"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
                                         lineNumber: 135,
@@ -779,13 +779,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "Graduation show"
+                                                children: "Manifesto"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 137,
                                                 columnNumber: 15
                                             }, this),
-                                            ", Copenhagen Fashion Week, Denmark"
+                                            ", The Royal Danish Academy, Copenhagen"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -818,7 +818,7 @@ const CV = ()=>{
                                                 lineNumber: 143,
                                                 columnNumber: 15
                                             }, this),
-                                            ", SKT. Petri, Copenhagen"
+                                            ", Copenhagen Fashion Week, Denmark"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -835,7 +835,7 @@ const CV = ()=>{
                                 className: "grid grid-cols-[100px_1fr] gap-4",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        children: "2016"
+                                        children: "2018"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
                                         lineNumber: 147,
@@ -845,13 +845,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "Textures"
+                                                children: "Graduation show"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 149,
                                                 columnNumber: 15
                                             }, this),
-                                            ", The Royal Danish Academy, Copenhagen"
+                                            ", SKT. Petri, Copenhagen"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -878,13 +878,13 @@ const CV = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "italic",
-                                                children: "Krop"
+                                                children: "Textures"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Cv.tsx",
                                                 lineNumber: 155,
                                                 columnNumber: 15
                                             }, this),
-                                            ", Hello Koral, Copenhagen"
+                                            ", The Royal Danish Academy, Copenhagen"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Cv.tsx",
@@ -895,6 +895,39 @@ const CV = ()=>{
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
                                 lineNumber: 152,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "grid grid-cols-[100px_1fr] gap-4",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        children: "2016"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/Cv.tsx",
+                                        lineNumber: 159,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                className: "italic",
+                                                children: "Krop"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/Cv.tsx",
+                                                lineNumber: 161,
+                                                columnNumber: 15
+                                            }, this),
+                                            ", Hello Koral, Copenhagen"
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/components/Cv.tsx",
+                                        lineNumber: 160,
+                                        columnNumber: 13
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/src/components/Cv.tsx",
+                                lineNumber: 158,
                                 columnNumber: 11
                             }, this)
                         ]
@@ -917,7 +950,7 @@ const CV = ()=>{
                         children: "Other (Selection)"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Cv.tsx",
-                        lineNumber: 162,
+                        lineNumber: 168,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -930,20 +963,20 @@ const CV = ()=>{
                                         children: "2025"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 165,
+                                        lineNumber: 171,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Workshop at ”Ungas konsthall”, Malmö Konsthall"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 166,
+                                        lineNumber: 172,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 164,
+                                lineNumber: 170,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -953,20 +986,20 @@ const CV = ()=>{
                                         children: "2025"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 169,
+                                        lineNumber: 175,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Artist and Designer, Form/Design Center, Freelance program"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 170,
+                                        lineNumber: 176,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 168,
+                                lineNumber: 174,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -976,20 +1009,20 @@ const CV = ()=>{
                                         children: "2025"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 173,
+                                        lineNumber: 179,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Artist and Womenswear Designer, STPLN LAB, Freelance program"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 174,
+                                        lineNumber: 180,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 172,
+                                lineNumber: 178,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -999,20 +1032,20 @@ const CV = ()=>{
                                         children: "2024–ongoing"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 177,
+                                        lineNumber: 183,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Board Member, MalmöVÄV"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 178,
+                                        lineNumber: 184,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 176,
+                                lineNumber: 182,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1022,20 +1055,20 @@ const CV = ()=>{
                                         children: "2024"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 181,
+                                        lineNumber: 187,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Project leader/workshops “VÄV med MalmöVÄV” and exhibition building, ArkDes"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 182,
+                                        lineNumber: 188,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 180,
+                                lineNumber: 186,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1045,20 +1078,20 @@ const CV = ()=>{
                                         children: "2024"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 185,
+                                        lineNumber: 191,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Panel Talk, ArkDes"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 186,
+                                        lineNumber: 192,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 184,
+                                lineNumber: 190,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1068,20 +1101,20 @@ const CV = ()=>{
                                         children: "2023–2024"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 189,
+                                        lineNumber: 195,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Public commission: weaving, Nyhamnen Malmö"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 190,
+                                        lineNumber: 196,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 188,
+                                lineNumber: 194,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1091,20 +1124,20 @@ const CV = ()=>{
                                         children: "2023"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 193,
+                                        lineNumber: 199,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Womenswear Designer, Tiger of Sweden"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 194,
+                                        lineNumber: 200,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 192,
+                                lineNumber: 198,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1114,20 +1147,20 @@ const CV = ()=>{
                                         children: "2023"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 197,
+                                        lineNumber: 203,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Menswear Designer, Trés Bien"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 198,
+                                        lineNumber: 204,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 196,
+                                lineNumber: 202,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1137,20 +1170,20 @@ const CV = ()=>{
                                         children: "2023"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 201,
+                                        lineNumber: 207,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Vogue Scandinavia / Vogue Runway"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 202,
+                                        lineNumber: 208,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 200,
+                                lineNumber: 206,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1160,20 +1193,20 @@ const CV = ()=>{
                                         children: "2021–2022"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 205,
+                                        lineNumber: 211,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Womenswear Designer, Collaboration with Marimekko"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 206,
+                                        lineNumber: 212,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 204,
+                                lineNumber: 210,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1183,20 +1216,20 @@ const CV = ()=>{
                                         children: "2020"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 209,
+                                        lineNumber: 215,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Womenswear Designer, Collaboration with Cristóbal Balenciaga"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 210,
+                                        lineNumber: 216,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 208,
+                                lineNumber: 214,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1206,20 +1239,20 @@ const CV = ()=>{
                                         children: "2014"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 213,
+                                        lineNumber: 219,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Design Intern, Asger Juel Larsen"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 214,
+                                        lineNumber: 220,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 212,
+                                lineNumber: 218,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1229,20 +1262,20 @@ const CV = ()=>{
                                         children: "2013"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 217,
+                                        lineNumber: 223,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Collaboration with Gina Tricot & Nelly.com"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 218,
+                                        lineNumber: 224,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 216,
+                                lineNumber: 222,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1252,32 +1285,32 @@ const CV = ()=>{
                                         children: "2012"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 221,
+                                        lineNumber: 227,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Kindergarden Teacher, Klurifax Teaterhus"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 222,
+                                        lineNumber: 228,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 220,
+                                lineNumber: 226,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/Cv.tsx",
-                        lineNumber: 163,
+                        lineNumber: 169,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/Cv.tsx",
-                lineNumber: 161,
+                lineNumber: 167,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1288,7 +1321,7 @@ const CV = ()=>{
                         children: "Awards and Grants"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Cv.tsx",
-                        lineNumber: 228,
+                        lineNumber: 234,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -1301,20 +1334,20 @@ const CV = ()=>{
                                         children: "2024–2025"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 231,
+                                        lineNumber: 237,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Malmö stad studio grant"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 232,
+                                        lineNumber: 238,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 230,
+                                lineNumber: 236,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1324,20 +1357,20 @@ const CV = ()=>{
                                         children: "2022"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 235,
+                                        lineNumber: 241,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Svenskt Tenn, Estrid Ericsson Grant"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 236,
+                                        lineNumber: 242,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 234,
+                                lineNumber: 240,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1347,20 +1380,20 @@ const CV = ()=>{
                                         children: "2022"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 239,
+                                        lineNumber: 245,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: '"Real Leather" London Finalist'
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 240,
+                                        lineNumber: 246,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 238,
+                                lineNumber: 244,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1370,20 +1403,20 @@ const CV = ()=>{
                                         children: "2022"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 243,
+                                        lineNumber: 249,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "TEKO Grant, University of Borås"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 244,
+                                        lineNumber: 250,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 242,
+                                lineNumber: 248,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1393,20 +1426,20 @@ const CV = ()=>{
                                         children: "2022"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 247,
+                                        lineNumber: 253,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Royal Danish Academy Grant"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 248,
+                                        lineNumber: 254,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 246,
+                                lineNumber: 252,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1416,20 +1449,20 @@ const CV = ()=>{
                                         children: "2022"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 251,
+                                        lineNumber: 257,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Carl Eric Levin Grant"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 252,
+                                        lineNumber: 258,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 250,
+                                lineNumber: 256,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1439,20 +1472,20 @@ const CV = ()=>{
                                         children: "2022"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 255,
+                                        lineNumber: 261,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Elma Levin Grant"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 256,
+                                        lineNumber: 262,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 254,
+                                lineNumber: 260,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1462,20 +1495,20 @@ const CV = ()=>{
                                         children: "2022"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 259,
+                                        lineNumber: 265,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Petersenska Hemmet Grant"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 260,
+                                        lineNumber: 266,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 258,
+                                lineNumber: 264,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1485,20 +1518,20 @@ const CV = ()=>{
                                         children: "2021"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 263,
+                                        lineNumber: 269,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Teko Grant"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 264,
+                                        lineNumber: 270,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 262,
+                                lineNumber: 268,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1508,32 +1541,32 @@ const CV = ()=>{
                                         children: "2021"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 267,
+                                        lineNumber: 273,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Royal Danish Academy Grant"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Cv.tsx",
-                                        lineNumber: 268,
+                                        lineNumber: 274,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 266,
+                                lineNumber: 272,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/Cv.tsx",
-                        lineNumber: 229,
+                        lineNumber: 235,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/Cv.tsx",
-                lineNumber: 227,
+                lineNumber: 233,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1543,7 +1576,7 @@ const CV = ()=>{
                         children: "Memberships"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Cv.tsx",
-                        lineNumber: 274,
+                        lineNumber: 280,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -1553,33 +1586,33 @@ const CV = ()=>{
                                 children: "Konstnärernas Riksorganisation"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 276,
+                                lineNumber: 282,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Svensk Form"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 277,
+                                lineNumber: 283,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "KKV MalmöVÄV"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Cv.tsx",
-                                lineNumber: 278,
+                                lineNumber: 284,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/Cv.tsx",
-                        lineNumber: 275,
+                        lineNumber: 281,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/Cv.tsx",
-                lineNumber: 273,
+                lineNumber: 279,
                 columnNumber: 7
             }, this)
         ]

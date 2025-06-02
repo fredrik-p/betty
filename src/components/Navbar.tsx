@@ -35,7 +35,7 @@ export default function Navbar() {
             href="/cv"
             className="block mt-4 lg:inline-block lg:mt-0 hover:text-stone-500  mr-4"
           >
-            Curiculum
+            CV
           </Link>
         </div>
         <div className="text-sm lg:ml-auto">
